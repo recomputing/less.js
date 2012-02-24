@@ -1,16 +1,13 @@
-less.js
+more.js
 =======
 
 The **dynamic** stylesheet language.
 
-<http://lesscss.org>
-
 about
 -----
 
-This is the JavaScript, and now official, stable version of LESS.
+This is the JavaScript, and now unofficial, agile version of MORE.
 
-For more information, visit <http://lesscss.org>.
 
 license
 -------
